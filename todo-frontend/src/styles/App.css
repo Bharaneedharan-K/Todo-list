@@ -1,0 +1,30 @@
+.app {
+    text-align: center;
+    padding: 2rem;
+    font-family: Arial, sans-serif;
+  }
+  
+  .input-container {
+    margin-bottom: 1rem;
+  }
+  
+  .input-container input {
+    padding: 0.5rem;
+    width: 200px;
+  }
+  
+  .input-container button {
+    margin-left: 0.5rem;
+    padding: 0.5rem 1rem;
+  }
+  
+  .todo-item {
+    display: flex;
+    align-items: center;
+    margin: 0.5rem 0;
+  }
+  
+  .todo-item span {
+    margin-left: 0.5rem;
+  }
+  
